@@ -1,10 +1,10 @@
-title: Joe Cool's Online Biography
+title: Allan Dalton
 
-email: hello@joecool.com
-github_url: https://github.com/joecool
-linkedin_url: https://linkedin.com/in/joecool
-medium_url: https://medium.com/joecool
-twitter_url: https://twitter.com/joecool
+email: allan@helloallan.com
+github_url: https://github.com/helloallan
+linkedin_url: https://linkedin.com/in/helloallan
+medium_url: https://medium.com/helloallan
+twitter_url: https://twitter.com/helloallan
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
